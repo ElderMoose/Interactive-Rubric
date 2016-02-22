@@ -250,7 +250,7 @@ function red(){
 
 function c3a(){
 	if(a==4){
-		x -=1
+		x -=1;
 	
 	}
 	a=3;
@@ -258,21 +258,21 @@ function c3a(){
 }
 function c2a(){
 	if(a==4){
-		x -=1
+		x -=1;
 	
 	}
 	a=2;
 }
 function c1a(){
 	if(a==4){
-		x -=1
+		x -=1;
 	
 	}
 	a=1
 }
 function c0a(){
 	if(a==4){
-		x -=1
+		x -=1;
 	
 	}
 	a=0;
