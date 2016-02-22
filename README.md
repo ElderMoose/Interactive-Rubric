@@ -38,18 +38,18 @@
 <td id="XII"  onclick="c0sc();green();gold();orange();red();clik()">sample</td>		
 </tr>	
 <tr> 
-<td> Purpose</td>	
-<td><a id="XIII" onclick="c3pp();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="XIV" onclick="c2pp();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="XV" onClick="c1pp();green();gold();orange();red();clik()" >sample</a></td>	
-<td><a id="XVI"  onclick="c0pp();green();gold();orange();red();clik()">sample</a></td>		
+<td> Purpose</td>
+<td id="XIII" onclick="c3pp();green();gold();orange();red();clik()"> sample</td>
+<td id="XIV" onclick="c2pp();green();gold();orange();red();clik()"> sample</td>	
+<td id="XV" onClick="c1pp();green();gold();orange();red();clik()" >sample</td>	
+<td id="XVI"  onclick="c0pp();green();gold();orange();red();clik()">sample</td>		
 </tr>	
 <tr> 
 <td> Date</td>	
-<td><a id="XVII" onclick="c3d();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="XVIII" onclick="c2d();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="XIX" onClick="c1d();green();gold();orange();red();clik()" >sample</a></td>	
-<td><a id="XX"  onclick="c0d();green();gold();orange();red();clik()">sample</a></td>	
+<td id="XVII" onclick="c3d();green();gold();orange();red();clik()"> sample</td>	
+<td id="XVIII" onclick="c2d();green();gold();orange();red();clik()"> sample</td>	
+<td id="XIX" onClick="c1d();green();gold();orange();red();clik()" >sample</td>	
+<td id="XX"  onclick="c0d();green();gold();orange();red();clik()">sample</td>	
 </tr>	
 <tr> 
 <td> Substance</td>	
