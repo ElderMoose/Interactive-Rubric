@@ -119,10 +119,10 @@ function green(){
 
 function gold(){
 	if(a==2){	
-	document.getElementById("II").style.color= "gold"
+	document.getElementById("II").style.color= "gold";
 	}
 	if(a!=2){
-	document.getElementById("II").style.color= "black"
+	document.getElementById("II").style.color= "black";
 	}
 
 	if(b==2){
@@ -163,10 +163,10 @@ function gold(){
 
 function orange(){
 	if(a==1){
-	document.getElementById("III").style.color="#E66C2C"
+	document.getElementById("III").style.color="#E66C2C";
 	}
 	if(a!=1){
-	document.getElementById("III").style.color="black"
+	document.getElementById("III").style.color="black";
 	}
 
 	if(b==1){
@@ -206,10 +206,10 @@ function orange(){
 
 function red(){
 	if(a==0){
-	document.getElementById("IV").style.color="red"
+	document.getElementById("IV").style.color="red";
 	}
 	if(a!=0){
-	document.getElementById("IV").style.color="black"
+	document.getElementById("IV").style.color="black";
 	}
 
 	if(b==0){
