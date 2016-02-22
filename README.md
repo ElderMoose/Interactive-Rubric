@@ -1,5 +1,5 @@
 # Interactive-Rubric
-<!DOCTYPE html>
+
 <html><head><title>interactiveRubric</title></head>
 
 <body> 
