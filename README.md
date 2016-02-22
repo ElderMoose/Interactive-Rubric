@@ -32,10 +32,10 @@
 </tr>	
 <tr> 
 <td> Sources Cited</td>	
-<td> id="IX" onclick="c3sc();green();gold();orange();red();clik()"> sample</td>	
-<td> id="X" onclick="c2sc();green();gold();orange();red();clik()"> sample</td>	
-<td> id="XI" onClick="c1sc();green();gold();orange();red();clik()" >sample</td>	
-<td> id="XII"  onclick="c0sc();green();gold();orange();red();clik()">sample</td>		
+<td id="IX" onclick="c3sc();green();gold();orange();red();clik()"> sample</td>	
+<td id="X" onclick="c2sc();green();gold();orange();red();clik()"> sample</td>	
+<td id="XI" onClick="c1sc();green();gold();orange();red();clik()" >sample</td>	
+<td id="XII"  onclick="c0sc();green();gold();orange();red();clik()">sample</td>		
 </tr>	
 <tr> 
 <td> Purpose</td>	
