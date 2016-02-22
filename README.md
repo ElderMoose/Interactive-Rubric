@@ -75,17 +75,17 @@ var x = 6
 var cl = 0;
 function green(){
 	if(a ==3){
-	document.getElementById("I").style.color= "green"
+	document.getElementById("I").style.color= "green";
 	}
 	if(a!=3){
-	document.getElementById('I').style.color='black'
+	document.getElementById('I').style.color='black';
 	}
 
 	if(b==3){
-	document.getElementById('V').style.color='green'
+	document.getElementById('V').style.color='green';
 	}
 	if(b!=3){
-	document.getElementById('V').style.color='black'
+	document.getElementById('V').style.color='black';
 	}
 
 	if(c==3){
