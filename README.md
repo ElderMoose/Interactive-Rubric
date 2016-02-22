@@ -25,17 +25,17 @@
 </tr>
 <tr> 
 <td> Publisher</td>	
-<td><a id="V" onclick="c3p();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="VI" onclick="c2p();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="VII" onClick="c1p();green();gold();orange();red();clik()" >sample</a></td>	
-<td><a id="VIII"  onclick="c0p();green();gold();orange();red();clik()">sample</a></td>	
+<td id="V" onclick="c3p();green();gold();orange();red();clik()"> sample</td>	
+<td id="VI" onclick="c2p();green();gold();orange();red();clik()"> sample</td>	
+<td id="VII" onClick="c1p();green();gold();orange();red();clik()" >sample</td>	
+<td id="VIII"  onclick="c0p();green();gold();orange();red();clik()">sample</td>	
 </tr>	
 <tr> 
 <td> Sources Cited</td>	
-<td><a id="IX" onclick="c3sc();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="X" onclick="c2sc();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="XI" onClick="c1sc();green();gold();orange();red();clik()" >sample</a></td>	
-<td><a id="XII"  onclick="c0sc();green();gold();orange();red();clik()">sample</a></td>		
+<td> id="IX" onclick="c3sc();green();gold();orange();red();clik()"> sample</td>	
+<td> id="X" onclick="c2sc();green();gold();orange();red();clik()"> sample</td>	
+<td> id="XI" onClick="c1sc();green();gold();orange();red();clik()" >sample</td>	
+<td> id="XII"  onclick="c0sc();green();gold();orange();red();clik()">sample</td>		
 </tr>	
 <tr> 
 <td> Purpose</td>	
