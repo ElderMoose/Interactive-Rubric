@@ -18,10 +18,10 @@
 
 <tr >
 <td> Author</td>	
-<td> <a id="I"onClick= "c3a();green();gold();orange();red();clik()" >sample</a></td>	
-<td> <a id="II" onclick="c2a();gold();green();orange();red();clik()">sample</a></td>	
-<td> <a id="III" onClick="c1a();red();gold();green();orange();clik()">sample</a></td>	
-<td> <a id= "IV" onclick="c0a();red();orange();gold();green();clik()">sample</a></td>	
+<td id="I"onClick= "c3a();green();gold();orange();red();clik()" >sample</td>	
+<td id="II" onclick="c2a();gold();green();orange();red();clik()">sample</td>	
+<td id="III" onClick="c1a();red();gold();green();orange();clik()">sample</td>	
+<td id= "IV" onclick="c0a();red();orange();gold();green();clik()">sample</td>	
 </tr>
 <tr> 
 <td> Publisher</td>	
