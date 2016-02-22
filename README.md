@@ -1,5 +1,5 @@
 # Interactive-Rubric
-<!DOCTYPE html>
+
 <html><head><title>interactiveRubric</title></head>
 
 <body> 
@@ -25,31 +25,31 @@
 </tr>
 <tr> 
 <td> Publisher</td>	
-<td><a id="V" onclick="c3p();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="VI" onclick="c2p();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="VII" onClick="c1p();green();gold();orange();red();clik()" >sample</a></td>	
-<td><a id="VIII"  onclick="c0p();green();gold();orange();red();clik()">sample</a></td>	
+<td id="V" onclick="c3p();green();gold();orange();red();clik()"> sample</td>	
+<td id="VI" onclick="c2p();green();gold();orange();red();clik()"> sample</td>	
+<td id="VII" onClick="c1p();green();gold();orange();red();clik()" >sample</td>	
+<td id="VIII"  onclick="c0p();green();gold();orange();red();clik()">sample</td>	
 </tr>	
 <tr> 
 <td> Sources Cited</td>	
-<td><a id="IX" onclick="c3sc();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="X" onclick="c2sc();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="XI" onClick="c1sc();green();gold();orange();red();clik()" >sample</a></td>	
-<td><a id="XII"  onclick="c0sc();green();gold();orange();red();clik()">sample</a></td>		
+<td id="IX" onclick="c3sc();green();gold();orange();red();clik()"> sample</td>	
+<td id="X" onclick="c2sc();green();gold();orange();red();clik()"> sample</td>	
+<td id="XI" onClick="c1sc();green();gold();orange();red();clik()" >sample</td>	
+<td id="XII"  onclick="c0sc();green();gold();orange();red();clik()">sample</td>		
 </tr>	
 <tr> 
-<td> Purpose</td>	
-<td><a id="XIII" onclick="c3pp();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="XIV" onclick="c2pp();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="XV" onClick="c1pp();green();gold();orange();red();clik()" >sample</a></td>	
-<td><a id="XVI"  onclick="c0pp();green();gold();orange();red();clik()">sample</a></td>		
+<td> Purpose</td>
+<td id="XIII" onclick="c3pp();green();gold();orange();red();clik()"> sample</td>
+<td id="XIV" onclick="c2pp();green();gold();orange();red();clik()"> sample</td>	
+<td id="XV" onClick="c1pp();green();gold();orange();red();clik()" >sample</td>	
+<td id="XVI"  onclick="c0pp();green();gold();orange();red();clik()">sample</td>		
 </tr>	
 <tr> 
 <td> Date</td>	
-<td><a id="XVII" onclick="c3d();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="XVIII" onclick="c2d();green();gold();orange();red();clik()"> sample</a></td>	
-<td><a id="XIX" onClick="c1d();green();gold();orange();red();clik()" >sample</a></td>	
-<td><a id="XX"  onclick="c0d();green();gold();orange();red();clik()">sample</a></td>	
+<td id="XVII" onclick="c3d();green();gold();orange();red();clik()"> sample</td>	
+<td id="XVIII" onclick="c2d();green();gold();orange();red();clik()"> sample</td>	
+<td id="XIX" onClick="c1d();green();gold();orange();red();clik()" >sample</td>	
+<td id="XX"  onclick="c0d();green();gold();orange();red();clik()">sample</td>	
 </tr>	
 <tr> 
 <td> Substance</td>	
