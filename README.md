@@ -163,7 +163,7 @@ The information is more than 3 years old, but is not necessarily out of date.</t
 </style>
 <p id='idk'>
 </p>
-<script>
+<script scr="js/main.js" type="text/javascript">
 
 var a = 4;
 var b = 4;
