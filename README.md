@@ -1,5 +1,4 @@
 # Interactive-Rubric
-# Interactive-Rubric
 <html>
 
 <body> 
