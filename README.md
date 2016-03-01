@@ -1,6 +1,6 @@
 # Interactive-Rubric
 <html>
-
+<meta charset="UTF-8">
 <body> 
 
 <table border= '1'>
