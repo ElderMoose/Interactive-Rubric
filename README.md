@@ -1,6 +1,6 @@
 # Interactive-Rubric
 <html>
-
+<meta charset="UTF-8">
 <body> 
 
 <table border= '1'>
@@ -86,82 +86,11 @@ The information is more than 3 years old, but is not necessarily out of date.</t
 <td id="XXIV"  onclick="c0s();green();gold();orange();red();clik()">No depth, contains excessive colloquialisms, slang, use of "I"</td>	
 </tr>	
 </table>
-<style type="text/css">
-#I {
-	cursor: pointer;
-}
-#II {
-	cursor: pointer;
-}
-#III {
-	cursor: pointer;
-}
-#IV {
-	cursor: pointer;
-}
-#V {
-	cursor: pointer;
-}
-#VI {
-	cursor: pointer;
-}
-#VII {
-	cursor: pointer;
-}
-#VIII {
-	cursor: pointer;
-}
-#IX {
-	cursor: pointer;
-}
-#X {
-	cursor: pointer;
-}
-#XI {
-	cursor: pointer;
-}
-#XII {
-	cursor: pointer;
-}
-#XIII {
-	cursor: pointer;
-}
-#XIV {
-	cursor: pointer;
-}
-#XV {
-	cursor: pointer;
-}
-#XVI {
-	cursor: pointer;
-}
-#XVII {
-	cursor: pointer;
-}
-#XVIII {
-	cursor: pointer;
-}
-#XIX {
-	cursor: pointer;
-}
-#XX {
-	cursor: pointer;
-}
-#XXI {
-	cursor: pointer;
-}
-#XXII {
-	cursor: pointer;
-}
-#XXIII {
-	cursor: pointer;
-}
-#XXIV {
-	cursor: pointer;
-}
-</style>
+
 <p id='idk'>
 </p>
+# Interactive-Rubric
+
 <script type="text/javascript">
 
 var a = 4;
@@ -577,6 +506,7 @@ function clik(){
 
 
 </script>
+
 Mark V
 </body>
 </html>
